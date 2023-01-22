@@ -52,6 +52,10 @@ print("{:.2f}".format(ans))
 ![norm1](https://user-images.githubusercontent.com/118787261/213279238-5786d233-1f94-40fd-aacd-2b2d607de38d.png)
 
 
+
+
+
+
 ### 2-Norm of a Matrix
 ![norm2](https://user-images.githubusercontent.com/118787261/213279259-e39a20e2-f71a-459f-ac49-8a756106c522.png)
 
